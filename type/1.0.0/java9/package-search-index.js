@@ -1,0 +1,1 @@
+packageSearchIndex = [{"m":"net.kemuri9.type","l":"net.kemuri9.type"}]
