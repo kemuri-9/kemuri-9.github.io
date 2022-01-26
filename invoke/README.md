@@ -7,4 +7,5 @@ Invocation utilities
 ## Javadocs
 
 - [current](current/)
+- [1.1.0](1.1.0/)
 - [1.0.0](1.0.0/)
