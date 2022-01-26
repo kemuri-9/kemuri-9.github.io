@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"net.kemuri9.invoke.unsafe","l":"GetFullAccessUnsafe"}]

@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"net.kemuri9.invoke.unsafe"}]

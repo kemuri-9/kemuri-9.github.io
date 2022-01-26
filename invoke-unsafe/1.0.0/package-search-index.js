@@ -1,0 +1,1 @@
+packageSearchIndex = [{"m":"net.kemuri9.invoke.unsafe","l":"net.kemuri9.invoke.unsafe"}]

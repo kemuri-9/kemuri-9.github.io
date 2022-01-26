@@ -2,4 +2,5 @@
 
 ## [gradle-plugin-mrjar](gradle-plugin-mrjar/)
 ## [invoke](invoke/)
+## [invoke-unsafe](invoke-unsafe/)
 ## [type](type/)
